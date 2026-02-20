@@ -24,6 +24,17 @@
 			"Name": "BloodStainSystem",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/2eb83102-6ea6-448a-a56e-64b905cc1651"
+		},
+		{
+			"Name": "WinDualShock",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
+		},
+		{
+			"Name": "WindowsDualsense_ds5w",
+			"Enabled": true
 		}
 	]
 }
