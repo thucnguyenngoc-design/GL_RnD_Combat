@@ -30,6 +30,10 @@
 		{
 			"Name": "WindowsDualsense_ds5w",
 			"Enabled": true
+		},
+		{
+			"Name": "ToonOutlineTool",
+			"Enabled": true
 		}
 	]
 }
