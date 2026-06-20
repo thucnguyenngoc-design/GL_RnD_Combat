@@ -34,6 +34,11 @@
 		{
 			"Name": "ToonOutlineTool",
 			"Enabled": true
+		},
+		{
+			"Name": "FancyFolders",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/4fe57f0e-65dc-44be-8060-6960b72fffa0"
 		}
 	]
 }
